@@ -2,7 +2,7 @@
     position: relative;
     height: 400px;
     width: 100%;
-    background-image: url('C:\Users\lenovo\Desktop\MERN\LAXMI-NARAYAN-MANDIR\src\pictures\LaxmiNarayanbhagwan2.jpg');
+    background-image: url('/src/pictures/LaxmiNarayanbhagwan2.jpg');
     
     background-size: cover;
     background-repeat: no-repeat;
